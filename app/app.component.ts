@@ -10,13 +10,15 @@ import { Album } from './album.model';
   <div class="container">
     <h1>We Sell Music</h1>
     <div class="row">
-      <div class="col-md-8">
+      <div class="col-sm-8">
         <album-list
           [albumList]="albums">
         </album-list>
       </div>
-      <div class="col-md-4">
-        <shopping-cart></shopping-cart>
+      <div class="col-sm-4">
+        <shopping-cart
+          [albumList]="albums">
+        </shopping-cart>
       </div>
     </div>
   </div>
