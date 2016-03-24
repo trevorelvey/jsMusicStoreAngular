@@ -1,12 +1,12 @@
-# Angular2 Project Template
+# Music Store
 
-#### March 22, 2016
+#### March 24, 2016
 
-#### By Chris Young
+#### By Chris Young & Trevor Elvey
 
 ## Description
 
-A simple Angular2/Node.js web application template.
+A CD store displaying albums, their attributes, sorting by genre and artist, and allowing user to add albums to their shopping cart.
 
 ## Technologies Used
 
@@ -16,7 +16,7 @@ JavaScript, TypeScript, Angular2, Node.js, Bower, Gulp, Sass CSS
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2016 Chris Young
+Copyright (c) 2016 Chris Young & Trevor Elvey
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
