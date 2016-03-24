@@ -1,21 +1,25 @@
 .bod {
-  background-color: #CDD4E7;
+background: url("/resources/images/bg.gif");
+background-size: auto 100%;
+background-repeat: no-repeat;
+background-attachment: fixed;
 }
 h1 {
   color: #E5781D;
   text-align: center;
-  font-size: 62px;
+  font-size: 92px;
   font-family: 'Poiret One', cursive;
 }
 .record {
   padding: 10px;
+  color: white;
 }
 .album-name {
   font-family: 'Poiret One', cursive;
   font-size: 36px;
 }
 .artist-name {
-  font-family: 'Passion One', cursive;
+  font-family: 'Poiret One', cursive;
   font-size: 28px;
 }
 .genre-name {
@@ -24,4 +28,15 @@ h1 {
 }
 .price {
   padding-left: 10px;
+}
+.well {
+  background-color: rgba(255, 255, 255, 0.6);
+  padding-top: 5px;
+  min-height: 180px;
+}
+.well h3 {
+  color: #768d62;
+  text-align: center;
+  text-decoration: underline;
+  font-family: 'Poiret One', cursive;
 }
